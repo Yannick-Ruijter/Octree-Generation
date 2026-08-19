@@ -125,7 +125,7 @@ private void CreateTree(List<GameObject> objects, float minNodeSize) {
 ````
 Congratulations! You've created your first octree and are wondering how it is this easy. What we currently created is an octree that gets created once and does not change. The real difficulty starts when trying to make it dynamic.
 
-# Adding objects
+# Adding objects (Youtube Tutorial Ends Here)
 Let's start with adding objects. From this point on, we're going further than the original tutorial. I do still recommend watching it as it also implements A* on the octree. 
 We first tackle the easiest part of adding an object. Adding an object that's within the bounds of the original octree. We do not need any new functionality to implement this!
 ````c#
